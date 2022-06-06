@@ -21,7 +21,7 @@ pipeline  {
 		always{
 			echo "I run always."
 		}
-		succsess{
+		success{
 			echo "i run when success"
 		}
 
